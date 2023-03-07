@@ -1,3 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
 h1 {
-    color: lightblue;
+    color: rgb(24, 89, 110);
+}
+
+ol li {
+    padding-left: 12px;
 }
